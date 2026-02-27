@@ -67,6 +67,12 @@ Steps:
 - Benchmarking partitioning strategies
 - Integration with distributed storage (S3/HDFS)
 
+## Repository Structure
+
+- `notebooks/01-spark-json-data-ingestion.ipynb` – JSON ingestion & schema inference  
+- `notebooks/02-geospatial-processing-spark-sedona.ipynb` – SpatialRDD processing  
+- `notebooks/03-hilbert-curve-spatial-indexing.ipynb` – Hilbert curve mapping & indexing  
+
 ---
 
 ## License
